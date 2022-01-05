@@ -38,6 +38,12 @@ header {
     text-align: center;
 }
 
+footer {
+    display: block;
+    padding: 50px 0px 50px 0px;
+    background-color: hsl(240, 21%, 10%);
+}
+
 form {
     display: block;
     max-width: 720px;
