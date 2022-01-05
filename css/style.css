@@ -3,7 +3,7 @@ h1, h2, h3 {
     font-family: 'Inknut Antiqua', serif;
 }
 
-p, label, select, button, textarea {
+p, label, select, button, textarea, small {
     font-family: 'Noto Sans', sans-serif;
 }
 
@@ -40,8 +40,9 @@ header {
 
 footer {
     display: block;
+    margin: 0 auto;
     padding: 50px 0px 50px 0px;
-    background-color: hsl(240, 21%, 10%);
+    text-align: center;
 }
 
 form {
